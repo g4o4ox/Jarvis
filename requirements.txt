@@ -1,0 +1,6 @@
+ollama
+sounddevice
+numpy
+faster-whisper
+ctranslate2
+av
