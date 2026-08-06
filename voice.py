@@ -6,9 +6,8 @@ from faster_whisper import WhisperModel
 
 class Voice:
     def __init__(self):
-        self.sample_rate = 16000
+        self.sample_rate = 4800
         self.device = 10  # PipeWire
-
         print("Carregando Sistema de Voz")
 
         print("Baixando Modelo de Voz")
