@@ -4,7 +4,8 @@
 
 ### **Proximas Updates**
 
-- Interface Web
-- melhores integrações com reconhecimento de voz
-- possibilidade de escolher varios agentes de I.A
-- vozes variadas
+- Configuração de um Launcher.
+- Interface Web ( em desenvolvimento )
+- melhores integrações com reconhecimento de voz ( em desenvolvimento )
+- possibilidade de escolher varios agentes de I.A ( aplicado no brain.py )
+- vozes variadas 
