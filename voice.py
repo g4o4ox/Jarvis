@@ -2,7 +2,7 @@ import sounddevice as sd
 import numpy as np
 import subprocess
 from faster_whisper import WhisperModel
-
+import 
 
 class Voice:
     def __init__(self):
